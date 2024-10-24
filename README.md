@@ -10,9 +10,7 @@ Back End : Java , Maven ,Spring , Spring Boot
 DataBase : MySQL
 
 
-Description :
-
-       Build an e-commerce website where users can browse
+Description :    Build an e-commerce website where users can browse
        products, add items to a shopping cart, and proceed to
        checkout. Implement features like user
        authentication, product filtering, and payment
